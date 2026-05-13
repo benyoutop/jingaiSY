@@ -1,6 +1,7 @@
 build/
 .codex
 .vscode/
+paper/
 cmake-build-*/
 *.elf
 *.map
