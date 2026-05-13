@@ -1,0 +1,35 @@
+build/
+.codex
+.vscode/
+cmake-build-*/
+*.elf
+*.map
+*.bin
+*.hex
+*.o
+*.d
+*.su
+*.obj
+
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+build.ninja
+.ninja_*
+CTestTestfile.cmake
+_deps
+CMakeUserPresets.json
+多维感知智慧城市井盖监控系统设计与实现.docx
+
+# CLion
+#  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
+#  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
+#  and can be added to the global gitignore or merged into this file.  For a more nuclear
+#  option (not recommended) you can uncomment the following to ignore the entire idea folder.
+#cmake-build-*
